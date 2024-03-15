@@ -1,8 +1,8 @@
-  Economic Data Analysis from FRED (https://fred.stlouisfed.org/).
-
+Economic Data Analysis from FRED - Federal Reserve Economic Data
+Website: (https://fred.stlouisfed.org/).
+Developer API: https://research.stlouisfed.org/docs/api/
 
 ## Project Structure
-
 ```
 economic-analysis-fred/
 ├── data/
