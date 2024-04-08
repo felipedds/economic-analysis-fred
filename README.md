@@ -40,6 +40,9 @@ economic-analysis-fred/
 └── requirements.txt         # Python dependencies file (alternative to environment.yml)
 ```
 
+## Data Science Pipeline
+![Data Science Pipeline](/reports/datascience_pipeline.png)
+
 ## Useful Links
 Economic Data Analysis from FRED - Federal Reserve Economic Data Website: (https://fred.stlouisfed.org/).
 Developer API: https://research.stlouisfed.org/docs/api/
