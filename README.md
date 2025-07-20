@@ -1,4 +1,4 @@
-## Predicting the Consumer Price Index For All Urban Consumers (CPI-U) using Economic Indicators
+## Predicting the Consumer Price Index For All Urban Consumers (CPI-U) using Economic Indicators (Portfolio)
 
 #### Description:
 
